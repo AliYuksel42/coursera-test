@@ -10,7 +10,6 @@ section {
     border: 1px solid black;    
     background-color: gray;
     height: 250px;
-    overflow: auto;
 }
 h2 {
     float: right;
