@@ -8,7 +8,7 @@ h1{
 }
 section {
     border: 1px solid black;    
-    background-color: gray;
+    background-color: lightgray;
     height: 250px;
 }
 h2 {
@@ -27,16 +27,19 @@ p {
     width: 90%;
 }
 #chicken {
-    background-color: greenyellow;
+    background-color: #DAA520
+;
 }
 
 #beef {
-    background-color: orangered;
+    background-color: #DC143C
+;
     color: white;
 }
 
 #sushi {
-    background-color: orange;
+    background-color: #FFF8DC
+;
 }
 
 /********** Desktop version **********/
